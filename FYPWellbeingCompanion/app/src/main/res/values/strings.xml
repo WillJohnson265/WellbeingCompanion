@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wellness Companion
+    </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    
+    <string-array name="points">
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
